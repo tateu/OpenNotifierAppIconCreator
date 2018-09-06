@@ -1,0 +1,9 @@
+Package: net.tateu.opennotifierappiconcreator
+Name: OpenNotifier App Icon Creator
+Depends:
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Create application icons for OpenNotifier.
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Section: System
